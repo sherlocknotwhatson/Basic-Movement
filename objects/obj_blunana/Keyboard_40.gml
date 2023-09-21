@@ -9,7 +9,7 @@ y += 5;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 7960801C
+/// @DnDHash : 3CF19BC1
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "lewalk"
 lewalk = 1;

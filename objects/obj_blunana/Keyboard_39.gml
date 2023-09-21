@@ -15,7 +15,7 @@ image_yscale = 1;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 23C25530
+/// @DnDHash : 0E96EC2C
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "lewalk"
 lewalk = 1;
